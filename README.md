@@ -42,5 +42,5 @@ I learned how to add foem validation to input fields on submit
 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/YusufsDesigns)
-- Twitter - [@yourusername](https://www.twitter.com/yusuf_Designs)
+- Frontend Mentor - [@YusufsDesigns](https://www.frontendmentor.io/profile/YusufsDesigns)
+- Twitter - [@yusuf_Designs](https://www.twitter.com/yusuf_Designs)
